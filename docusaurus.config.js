@@ -36,18 +36,6 @@ module.exports = {
           label: 'Careers',
           position: 'right',
         },
-        {
-          to: 'faq/',
-          activeBasePath: 'docs',
-          label: 'FAQ',
-          position: 'right',
-        },
-        {
-          to: 'docs/whitepaper/1_introduction',
-          activeBasePath: 'docs',
-          label: 'Whitepaper',
-          position: 'right',
-        },
       ],
     },
     footer: {

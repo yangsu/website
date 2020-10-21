@@ -87,21 +87,8 @@ function Home() {
       <div className="container">
         <header className={clsx(styles.section, styles.sectionHomePage)}>
           <h1 className={clsx('hero__title', styles.heroTitle, styles.h1Title)}>Iron Fish is a novel cryptocurrency<br />focused on privacy and accessibility</h1>
-          <Link
-            className='button button--outline'
-            to={useBaseUrl('docs/whitepaper/1_introduction')}>
-              Get Started →
-          </Link>
         </header>
-        <main>
-          {features && features.length > 0 && (
-            <>
-              {features.map((props, idx) => (
-                <Feature key={idx} {...props} />
-              ))}
-            </>
-          )}
-        </main>
+
       </div>
     </Layout >
   );
