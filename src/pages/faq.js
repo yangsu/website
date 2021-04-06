@@ -30,7 +30,7 @@ const questions = [
     description: {
       __html: `Right now, digital payments are fundamentally lacking in privacy — they are surveilled, analyzed, collected, and sold. With every online purchase, your metadata for that transaction is stored (from what IP you used, to your physical location, to your purchase history, and more).
       <br/><br/>
-    Privacy leads to innovation, social evolution. Much like https paved the way for entire industries through online ecommerce, we believe private transactions over a blockchain will enable frictionless global payments and new industries of borderless products and companies. Historically, this type of financial privacy has only been available to the rich, via offshore accounts. With Iron Fish, anyone can have an even better alternative to a Swiss bank account on their phone.`,
+    Privacy leads to innovation, open communication and social evolution. Much like https paved the way for entire industries through online ecommerce, we believe private transactions over a blockchain will enable frictionless global payments and new industries of borderless products and companies. Historically, this type of financial privacy has only been available to the rich, via offshore accounts. With Iron Fish, anyone can have an even better alternative to a Swiss bank account on their phone.`,
     },
   },
   {
