@@ -361,7 +361,7 @@ function Privacy() {
           <h3>Mobilecoin</h3>
 
           <p>
-            Mobilecoin a privacy coin that took Mobero’s privacy technique and
+            Mobilecoin a privacy coin that took Monero’s privacy technique and
             relies on SGX technology to provide mobile support. Unfortunately,{" "}
             <a
               href="https://www.wired.com/story/plundervolt-intel-chips-sgx-hack/"
