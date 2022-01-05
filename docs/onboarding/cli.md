@@ -159,9 +159,9 @@ Gets the current account's balance
 ironfish accounts:balance
 ```
 
-Gets a specific account's public key
+Gets a specific account's balance
 ```sh
-ironfish accounts:balance -a MyNewAccount
+ironfish accounts:balance MyNewAccount
 ```
 
 #### accounts:pay
